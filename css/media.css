@@ -1,0 +1,60 @@
+
+
+/* mobile */
+@media ( min-width: 320px) and (max-width: 500px){
+	
+	html{
+		font-size: 85%;
+	}
+	.hero{
+		position: relative !important
+	}
+	.fa.fa-home{
+		color: #fff;
+		font-size: 20px;	
+	}
+
+	.header-content{
+		margin-top: 150px !important
+
+	}
+	.header-content h1{
+		font-size: 35px !important
+	}
+
+	.header-content p{
+		font-size: 15px !important
+	}
+
+	.header-content input {
+       font-size: 10px !important
+       width: 300px !important
+       padding: 11px !important
+       border-radius: 5px !important
+       border: none !important
+    }
+   .header-content button {
+       font-size: 11px !important
+       color: #fff !important
+       font-weight: bold !important
+       background: #e7434e !important
+       padding: 11px !important
+       position:absolute !important
+       right: 15% !important
+       border: none !important
+       border-radius: 0px 5px 5px 0px !important
+    }
+
+}
+
+
+/* tb ipd */
+@media ( min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/* mdum */
+
+@media ( min-width: 768.01px) and (max-width: 992px){
+
+}
